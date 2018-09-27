@@ -1,0 +1,47 @@
+/*设置主要选项卡1*/
+#main .zhuyaoxxk{
+	width: 650px;
+    height: 521px;
+    background: #fff;
+    left: 294px;
+    top: 179px;
+    display: none;
+	position:absolute;
+}
+#main .zhuyaoxxk ul{
+	padding-bottom: 33px;
+    padding-top: 15px;
+}
+#main .zhuyaoxxk ul li{
+	float: left;
+    font-size: 10px;
+    padding-left: 9px;
+    /* margin-left: 4px; */
+    border-left: 1px solid gray;
+    padding-right: 2px;
+}
+#main .zhuyaoxxk ul:nth-child(1) li{
+	background:black;
+	color:#fff;
+	margin-left:2px;
+}
+#main .zhuyaoxxk ul li:nth-child(1){
+	border:none;
+	font-weight:bold;
+}
+<ul class="wan">
+<li><a href="#">玩所未玩，爆款低至5折抢</a></li>
+<li><a href="#">平板电脑6.18元秒杀</a></li>
+<li><a href="#">波士顿大龙虾79.9</a></li>
+<li><a href="#">京东超市每满199减100</a></li>
+</ul>
+
+#main .denglu .cux .xiao .wan li{
+	padding-bottom:2px;
+	padding
+}
+#main .denglu .cux .wan li a{
+	text-decoration: none;
+    font-size: 12px;
+    color:black;
+}
